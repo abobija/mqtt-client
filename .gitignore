@@ -1,6 +1,6 @@
 .vs/
-/NApi32/bin/
-/Napi32/obj/
+/MqttClient/bin/
+/MqttClient/obj/
 /packages/
 /bin/*.pdb
 /bin/*.xml
